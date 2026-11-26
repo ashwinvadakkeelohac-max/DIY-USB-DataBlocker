@@ -12,7 +12,7 @@ This project provides instructions on how to create a USB data blocker using bas
 - Easy to build with basic components
 - Provides an extra layer of security for your devices
 
-![DIY USB Data Blocker](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/top.jpg)
+![DIY USB Data Blocker](https://github.com/ashwinvadakkeelohac-max/DIY-USB-DataBlocker/blob/8136e611664b8d8d1dca9347fa922b20d76e82bb/img/top.jpg)
 
 ## Materials Needed
 
@@ -24,7 +24,7 @@ This project provides instructions on how to create a USB data blocker using bas
 
 ## Circuit Diagram
 
-USB Data Blocker ![circuit diagram](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/circuit-diagram.png)
+USB Data Blocker ![circuit diagram](https://github.com/ashwinvadakkeelohac-max/DIY-USB-DataBlocker/blob/8136e611664b8d8d1dca9347fa922b20d76e82bb/img/circuit-diagram.png)
 
 ## Assembly Instructions
 
@@ -32,11 +32,11 @@ USB Data Blocker ![circuit diagram](https://github.com/malwarekid/DIY-USB-DataBl
 
 2. Cut and isolate the data lines (green and white) to prevent data transfer.
 
-![cut data lines](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/cut-data-lines.jpg)
+![cut data lines](https://github.com/ashwinvadakkeelohac-max/DIY-USB-DataBlocker/blob/8136e611664b8d8d1dca9347fa922b20d76e82bb/img/cut-data-lines.jpg)
 
 3. Solder the connections and insulate them with electrical tape.
 
-![Soldering](https://github.com/malwarekid/DIY-USB-DataBlocker/blob/main/img/bottom.jpg)
+![Soldering](https://github.com/ashwinvadakkeelohac-max/DIY-USB-DataBlocker/blob/8136e611664b8d8d1dca9347fa922b20d76e82bb/img/bottom.jpg)
 
 ## Usage
 
